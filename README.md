@@ -1,5 +1,5 @@
 ## Introduction
-This module shows how to crawl data from [Amazon Today's Deals](https://www.amazon.com/gp/goldbox)
+This repository shows how to crawl data from [Amazon Today's Deals](https://www.amazon.com/gp/goldbox)
 
 ![Amazon Today's Deals](imgs/deals.png)
 
